@@ -2,8 +2,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrredshark77&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
-<iframe frameborder="0" src="https://itch.io/embed/1354425?bg_color=010b19&amp;fg_color=fff&amp;link_color=fff&amp;border_color=fff" width="552" height="167"><a href="https://mrredshark77.itch.io/universe-time">Universe Time by ＭｒＲｅｄＳｈａｒｋ７７</a></iframe>
-
 <!--
 **MrRedShark77/MrRedShark77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
